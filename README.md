@@ -13,5 +13,7 @@ GET /api/search Parameters
 - skip (int)  Number of results to skip before sending back search results
 - q (string) - Search query. Tags separated by spaces.
 - onlyInStock (bool) - When flag is set, only return products that are currently in stock.
+
 Response Type: NDJSON
+
 The app should keep loading products from the API until it has enough to fill the screen, and then wait until the user has swiped to the bottom to load more. The app should cache API requests for 1 hour.
