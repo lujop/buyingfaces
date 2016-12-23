@@ -3,8 +3,7 @@ Small task project I started for freelance project evaluation
 
 The application follows MVVM architecture using bindings throught RxJava observables and caches data using RxCache.
 
-Screenshoots:
-<img src="https://github.com/lujop/buyingfaces/blob/master/screenshoots/screen1.png" width="256"><br/>
+<img src="https://github.com/lujop/buyingfaces/blob/master/screenshoots/screen1.png" width="256">
 <img src="https://github.com/lujop/buyingfaces/blob/master/screenshoots/screen2.png" width="256"><br/>
 
 ##Requeriments for task project
